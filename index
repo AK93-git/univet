@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<!--[if IE 8 ]>    <html lang="ru" class="no-js ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="ru" class="no-js ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html lang="ru">
+<head>
+	<meta charset="utf-8">
+    <link rel="preload" href="https://univet.ru/css/style1.css" as="style">
+    <link rel="preload" href="https://univet.ru/img/wecare_sprite02.png" as="image">
+    <link rel="preload" href="js/jquery-1.12.4.min.js" as="script">
+	<meta content="Ветеринарная клиника &laquo;Унивет&raquo;. 🏥 Более 15 лет оказываем ветеринарную помощь животным. Находимся рядом с м. Красносельская" name="description" property="og:description">
+	<meta content='57fb3674efe11ede' name='yandex-verification'>
+	<meta content='6704d266c64f92e4' name='yandex-verification'>
+	<meta name="yandex-verification" content="c823cef66ea011b1" />
+    <meta name="wot-verification" content="1e4811e484ced72983d1"/>
+    <meta name='wmail-verification' content='1554f62f4c749c9b47de6a50aaa20331' />
+	<meta name="pmail-verification" content="369819e65f300b99a785a18dfe8914c8">
+	<meta content="a.k_93@mail.ru" name="author">
+	<meta content="width=device-width, initial-scale=1.0" name="viewport">
+	<meta content="all" name="robots">
+	<meta property="og:title" content="Унивет:🏥 ветеринарная клиника на Красносельской"/>
+	<meta property="og:image" content="https://univet.ru/img/univet-veterinarnaya-klinika.jpg">
+	<meta property="og:type" content="website"/>
+	<meta property="og:url" content= "https://univet.ru"/>
+    <meta content="#7b949f" name ="theme-color" >
+    <meta name="verify-admitad" content="a696644c79" />
+	<title>Унивет:🏥 ветеринарная клиника на Красносельской</title>
+    <link href="css/style1.css" rel="stylesheet">
+    <link rel="manifest" href="manifest.json"> 
+	<link href="favicon.png" rel="shortcut icon" type="image/x-icon">
+	<link href="https://univet.ru" rel="canonical">
+    <link rel="apple-touch-icon" href="https://univet.ru/apple-touch-icon.png">
+	
+    
+	<!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+<body>
+	
+	<header>
+		<div id="header-inn">
+			<a id="top-logo"><svg xmlns="http://www.w3.org/2000/svg" id="svg-logo" viewBox="0 0 284 86" style="height:86px"><style>.st0{fill:#fff}.st1{font-family:&apos;Roboto&apos;,sans-serif}</style><font horiz-adv-x="2048"><glyph horiz-adv-x="510"/><glyph d="M649 809l23-77h6l275 724h309L765 276c-43-95-92-169-149-220S477-21 370-21c-17 0-36 1-57 2s-37 2-48 3l-2 223c7-1 20-2 38-3s32-1 41-1c53 0 93 12 120 35 26 23 48 59 65 106l22 55L36 1456h315z" unicode="У" horiz-adv-x="1293"/><glyph d="M747 0c-11 25-20 51-27 78-8 27-14 55-17 84-30-53-69-96-118-131S477-21 409-21C296-21 208 8 147 67c-61 58-92 137-92 238 0 106 41 188 123 247 81 58 200 87 357 87h163v86c0 52-14 92-41 121s-68 43-121 43c-47 0-84-11-109-34-26-23-39-55-39-96l-282 1-1 6c-5 91 35 170 119 237 84 66 194 99 331 99 129 0 234-33 315-98 81-66 121-160 121-281V276c0-51 4-98 12-143 7-45 19-89 36-133M480 195c51 0 97 13 137 38s67 55 81 88v153H535c-62 0-109-15-141-46s-48-69-48-113c0-36 12-65 36-87s57-33 98-33z" unicode="а" horiz-adv-x="1100"/><glyph d="M127 0v1082h452c144 0 256-25 337-76 80-51 120-126 120-226 0-51-17-96-50-135-34-39-82-69-144-90 82-16 144-46 187-90 42-45 63-97 63-156 0-102-38-179-114-231C901 26 792 0 649 0M419 451V222h230c51 0 89 10 114 29s37 47 37 84-12 66-35 86c-24 20-63 30-116 30M419 641h168c54 0 94 9 120 26 25 17 38 43 38 78 0 39-14 68-41 87-27 18-69 27-125 27H419z" unicode="в" horiz-adv-x="1156"/><glyph d="M591-21c-156 0-281 50-374 150S77 356 77 510v40c0 161 44 293 133 397 88 104 206 156 355 155 146 0 259-44 340-132s121-207 121-357V454H380l-2-6c5-71 29-130 72-176 42-46 99-69 172-69 65 0 118 7 161 20s89 33 140 61l79-180c-44-36-102-66-173-89-71-24-151-36-238-36m-26 898c-54 0-97-21-128-62s-51-96-58-163l3-5h358v26c0 62-14 112-43 149s-73 55-132 55z" unicode="е" horiz-adv-x="1084"/><glyph d="M758 1082h291V0H758v660l-6 1L399 0H107v1082h292V424l6-1z" unicode="и" horiz-adv-x="1156"/><glyph d="M1049 1082V0H758v856H498V621c0-213-33-370-98-470C335 50 223 0 65 0H18l-3 230 31 1c67 0 110 27 130 82s30 157 30 308v461z" unicode="л" horiz-adv-x="1149"/><glyph d="M1047 0H755v420H399V0H107v1082h292V644h356v438h292z" unicode="н" horiz-adv-x="1156"/><glyph d="M1088 511c0-160-37-289-111-386S800-21 667-21c-57 0-107 11-151 32s-82 51-113 92v-519H112v1498h263l17-128c32 47 71 84 116 110 45 25 97 38 157 38 134 0 238-52 312-157s111-242 111-413m-292 0c0 102-17 185-51 248s-86 95-156 95c-44 0-81-9-112-27s-56-44-74-77V297c18-31 43-54 74-70s69-24 114-24c71 0 123 28 156 83s49 130 49 225z" unicode="р" horiz-adv-x="1156"/><glyph d="M566 203c52 0 94 15 125 46 31 30 47 70 47 121h265l3-6c3-109-38-201-123-274C798 16 692-21 566-21c-161 0-286 51-373 153S62 365 62 525v30c0 159 44 290 131 393s211 154 372 154c133 0 241-38 323-114 81-76 121-176 118-300l-2-6H738c0 56-15 103-46 140s-73 55-127 55c-77 0-132-30-163-90-32-60-48-137-48-232v-30c0-97 16-174 48-233 31-59 86-89 164-89z" unicode="с" horiz-adv-x="1060"/><glyph d="M1028 859H682V0H389v859H48v223h980z" unicode="т" horiz-adv-x="1070"/><glyph d="M422 732h203c145 0 260-33 343-100s125-155 125-264c0-110-42-199-125-266C885 34 770 0 625 0H129v1082h293m0-574V223h203c59 0 104 13 133 40s44 61 44 103c0 41-15 75-44 102s-74 40-133 40z" unicode="ь" horiz-adv-x="1143"/><glyph d="M1024 1082V0H734v379H558L346 0H51l239 427c-66 29-117 70-152 121-36 51-54 110-54 175 0 105 42 192 126 259 83 67 196 100 338 100M376 715c0-37 15-70 44-97 29-28 70-42 123-42h191v283H548c-55 0-97-15-127-44s-45-63-45-100z" unicode="я" horiz-adv-x="1156"/></font><text transform="translate(18 45)" class="st0 st1" font-size="56" font-weight="700">УниВет </text><text transform="translate(10 70)" class="st0 st1" font-size="20" font-weight="lighter">Универсальная ветеринария</text></svg></a> <span class="pseudo-menu">&#9776;</span>
+            <a class="tel" href="tel:+74993946274">+7(499) 394-62-74</a>
+			<a class="tel2" href="tel:+79162211373">+7 (916) 221-13-73</a>
+			<nav id="top-menu">
+			<a class="wa" href="https://wa.me/79162211373" target="_blank"><img src="img/whatsapp-logo.png"/></a>
+			<a class="vk-m" href="https://vk.com/clubunivet" target="_blank"><img src="img/Vk-Logo.png"/></a>			
+			<a href="about-us.php#lab">О клинике </a> <a href="https://univet.ru/services.php">Услуги </a> <!--<a href="#our-doctors" id="top-menu3">Ветврачи </a>--> <a href="https://univet.ru/online-zapis.php">Записаться </a> <a href="https://univet.ru/akcyi.php">Акции </a> <a href="https://univet.ru/contacty.php">Контакты </a>
+			</nav><!-- #top-menu -->
+			
+           <!--<div class="g-search">
+                <gcse:search></gcse:search> 
+			</div>-->
+		</div><!-- #header-inn -->
+       
+	</header>
+	<section class="section-main section" id="about-us">
+		<div class="section-inn about-clinic" itemscope itemtype="https://schema.org/ImageObject">
+		   <div class="about-body">	
+			<h1 class="title-docmed">Семейная ветеринарная клиника с доказательной медициной</h1>
+			<a href="https://univet.ru/online-zapis.php" class="btn-1" style="display:block;" >Записаться на прием</a>
+			</div>
+		</div><!-- .section-inn -->
+	</section><!-- #services -->
+	<section class="section-main section" id="services">
+		<div class="section-inn">
+			<h2 class="middle-title">Наши услуги</h2>
+			<div class="middle-text">
+				<p>Подробную информацию об услугах и ценах, оказываемых в клинике уточняйте по телефону :<br>  <a id="tel" href="tel:+74993946274">+7(499) 394-62-74</a>. 
+				<p>А также в нашем - <a href="https://univet.ru/price-list-vetkliniki-Univet.pdf" target="_blank"><strong> Прайс-листе</strong></a></p>
+			</div><!-- .middle-text -->
+			
+			<div class="art-content clearfix">
+             <article>
+                <div class="cards clearafter">   
+                 <div class="card-item article-view4">
+                    <div class="art-back">
+                        <div class="lazyload art-img2" data-bg="https://univet.ru/img/services/ter.jpg"></div>
+						<div class="lazyload art-blur" data-bg="https://univet.ru/img/services/ter.jpg"></div>
+                        <div class="art-grad2"></div>
+                       
+                    </div>
+                    <a href="https://univet.ru/terapiya.php" class="view-img">
+                     <div class="t-desc2">      
+                       <h4 class="view-text">Терапия</h4>
+                    </div>     
+					</a>
+                </div>  
+                <div class="card-item article-view4">
+                    
+                   <div class="art-back">
+                        <div class="lazyload art-img2" data-bg="https://univet.ru/img/services/lab.jpg"></div>
+						<div class="lazyload art-blur" data-bg="https://univet.ru/img/services/lab.jpg"></div>
+                        <div class="art-grad2"></div>
+                        
+                    </div>
+                    <a  href="https://univet.ru/diagnostika-i-lechenie.php" class="view-img">
+                     <div class="t-desc2">      
+						<h4 class="view-text">Лабораторные исследования</h4>
+						
+                    </div>     
+					</a>  
+                </div>
+                <div class="card-item article-view4">
+                    <div class="art-back">
+                        <div class="lazyload art-img2" data-bg="https://univet.ru/img/services/vizual-diag.jpg"></div>
+						<div class="lazyload art-blur" data-bg="https://univet.ru/img/services/vizual-diag.jpg"></div>
+                        <div class="art-grad2"></div>
+                        
+                    </div>
+                    <a href="https://univet.ru/vizualnaya-diagnostika.php" class="view-img">
+                     <div class="t-desc2">      
+						<h4 class="view-text">Визуальная диагностика</h4>
+						
+                    </div>     
+                   </a>
+                </div>
+				<div class="card-item article-view4">
+                    <div class="art-back">
+                        <div class="lazyload art-img2" data-bg="https://univet.ru/img/services/cardio.jpg"></div>
+						<div class="lazyload art-blur" data-bg="https://univet.ru/img/services/cardio.jpg"></div>
+                        <div class="art-grad2"></div>
+                        
+                    </div>
+                    <a href="/#" class="view-img">
+                     <div class="t-desc2">      
+						<h4 class="view-text">Кардиология</h4>
+						
+                    </div>     
+                   </a>
+                </div>
+				<div class="card-item article-view4">
+                    <div class="art-back">
+                        <div class="lazyload art-img2" data-bg="https://univet.ru/img/services/hirurgiya.jpg"></div>
+						<div class="lazyload art-blur" data-bg="https://univet.ru/img/services/hirurgiya.jpg"></div>
+                        <div class="art-grad2"></div>
+                        
+                    </div>
+                    <a href="https://univet.ru/hirurgiya.php" class="view-img">
+                     <div class="t-desc2">      
+						<h4 class="view-text">Хирургия</h4>
+						
+                    </div>     
+                   </a>
+                </div>
+				<div class="card-item article-view4">
+                    <div class="art-back">
+                        <div class="lazyload art-img2" data-bg="https://univet.ru/img/services/stacionar.jpg"></div>
+						<div class="lazyload art-blur" data-bg="https://univet.ru/img/services/stacionar.jpg"></div>
+                        <div class="art-grad2"></div>
+                        
+                    </div>
+                    <a href="https://univet.ru/stacionar-v-vetklinike.php" class="view-img">
+                     <div class="t-desc2">      
+						<h4 class="view-text">Стационар</h4>
+						
+                    </div>     
+                   </a>
+                </div>
+				<div class="card-item article-view4">
+                    <div class="art-back">
+                        <div class="lazyload art-img2" data-bg="https://univet.ru/img/services/vakcinacion.jpg"></div>
+						<div class="lazyload art-blur" data-bg="https://univet.ru/img/services/vakcinacion.jpg"></div>
+                        <div class="art-grad2"></div>
+                        
+                    </div>
+                    <a href="https://univet.ru/vakcinaciya-zhivotnyh.php" class="view-img">
+                     <div class="t-desc2">      
+						<h4 class="view-text">Вакцинация и чипирование</h4>
+						
+                    </div>     
+                   </a>
+                </div>
+   
+                
+                
+              </div>   				
+					
+               </article>
+            </div>
+			<div class="section-inn photo">
+			<h2 class="middle-title">Фото клиники</h2>
+			<div class="our-awards-wrap">
+				<div class="our-awards-slider" itemscope itemtype="https://schema.org/ImageObject">
+					<img class="lazyload award-img" alt="Фасад ветклиники фото" title="Фасад здания" data-src="img/awards-slides/aws2.jpg" itemprop="contentUrl"> 					
+					<img class="lazyload award-img" alt="зал ожидания клиники фото" title="Зал ожидания" data-src="img/awards-slides/aws3.jpg" itemprop="contentUrl"> 
+					<img class="lazyload award-img" alt="кабинет ветеринарной клиники Унивет фото" title="Кабинет" data-src="img/awards-slides/aws1.jpg" itemprop="contentUrl"> 
+					<img class="lazyload award-img" alt="процедурный кабинет фото" title="процедурный кабинет" data-src="img/awards-slides/aws4.jpg" itemprop="contentUrl">
+					<img class="lazyload award-img" alt="операционная фото" title="Операционная" data-src="img/awards-slides/aws5.jpg" itemprop="contentUrl">
+					<img class="lazyload award-img" alt="Кабинет УЗИ фото" title="Кабинет УЗИ" data-src="img/awards-slides/aws6.jpg" itemprop="contentUrl">
+					
+				</div><!-- .our-awards-slider -->
+				
+			</div><!-- .our-awards-wrap -->
+			
+			</div>
+			<div class="about-our-pacients-block" id="animals">
+				<h4 class="middle-title">Наши пациенты</h4>
+				<p>В нашей ветеринарной клинике происходит лечение различных видов животных. 
+                <!--<p>От собак и кошек, до грызунов, ящериц и черепах. Мы всегда рады видеть Вас .</p>-->
+                <p>Мы искренне желаем быть здоровым Вам и Вашим питомцам и готовы приложить максимальные усилия для этого!</p>
+			</div><!-- .about-our-pacients-block -->
+			<ul class="list-of-our-pacients">
+				<a href="https://univet.ru/lechenie-koshek.php#bolezni-k" class="view-img">
+                    <li>
+					<figure>
+						<img class="lazyload" alt="котенок фото" title="котенок" data-src="img/kitty.png">
+					</figure>
+					<h5>Кошки и коты</h5>  
+				</li>
+                </a>    
+                 <a href="https://univet.ru/bolezni-sobak-i-lechenie.php#bolezni" class="view-img">
+                    <li>
+					<figure>
+                        <img class="lazyload" alt="щенок фото" title="щенок" data-src="img/doggy.png">
+					</figure>
+					<h5>Собаки</h5>
+                        
+                    </li>
+                </a>
+				<!--<a href="https://univet.ru/lechenie-cherepah.php#terrapins" class="view-img">
+                    <li>
+					<figure>
+                        <img class="lazyload" alt="черепаха фото" title="черепаха" data-src="img/pacients/cherepaha.png">
+					</figure>
+					<h5>Рептилии и черепахи</h5>      
+				</li>
+                </a>    
+				<a href="https://univet.ru/lechenie-ptic.php#pticy" class="view-img">
+                    <li> 
+					<figure>
+                        <img class="lazyload" alt="попугай фото" title="попугай" data-src="img/pacients/pet5.jpg">
+					</figure>
+					<h5>Птицы</h5>
+                </li>
+                </a>
+                <li>
+					<figure>
+						<img class="lazyload" alt="хомяк фото" title="хомяк" data-src="img/pacients/pet2.jpg">
+					</figure>
+					<h5>Грызуны</h5>
+				</li>-->
+			</ul><!-- .list-of-our-pacients -->
+		</div><!-- .section-inn -->
+	</section><!-- #about-us --><!-- #about-us -->
+	<!--<section class="section-main section" id="our-doctors">
+		<div class="section-inn">
+			<h3 class="middle-title">Ветеринарные врачи <span>клиники</span></h3>
+			<div class="middle-text">
+				<p>Приводя питомца в <em>круглосуточную ветеринарную клинику УНИВЕТ</em>, будьте уверены, что Ваш любимец окажется в заботливых руках высококлассного специалиста. 
+                <p>Ветеринарные врачи нашего ветцентра постоянно повышают свой профессиональный уровень, осваивают и применяют новые методы терапии, участвуют в научных конференциях. Они с особым вниманием относятся к каждому пациенту, при осмотре и оказании помощи.</p>
+			</div>
+			<ul class="list-of-doctors">
+				<li>
+                    <picture>
+                        <source type="image/webp" data-srcset="img/doctors/doctor1.webp">
+                        <source type="image/png" data-srcset="img/doctors/doctor1.png">
+                        <img class="lazyload" alt="Ветеринарный врач Максименко Сергей фото" title="Максименко Сергей" data-src="img/doctors/doctor1.png">
+                    </picture>
+					
+					<h4>Максименко Сергей</h4>
+					<p>Главный врач</p>
+				</li>
+				<li>
+                    <picture>
+                        <source type="image/webp" data-srcset="img/doctors/doctor3.webp">
+                        <source type="image/png" data-srcset="img/doctors/doctor3.png">
+                        <img class="lazyload" alt="Ветеринарный врач Михаил Качалин фото" title="Михаил Качалин" data-src="img/doctors/doctor3.png">
+                    </picture>
+					
+					<h4>Михаил Качалин</h4>
+					<p>Ветеринарный врач-хирург, кандидат наук по ветеринарии</p>
+					<p class="min-font">(По предварительной записи)</p>
+				</li>
+				<li>
+                    <picture>
+                        <source type="image/webp" data-srcset="img/doctors/doctor2.webp">
+                        <source type="image/png" data-srcset="img/doctors/doctor2.png">
+                        <img class="lazyload" alt="Ветеринарный врач Крупецкий Константин фото" title="Крупецкий Константин" data-src="img/doctors/doctor2.png">
+                    </picture>
+					
+					<h4>Крупецкий Константин</h4>
+					<p>Ветеринарный врач общей практики</p>
+				</li>
+			</ul>
+		</div>
+	</section><!-- #our-doctors -->
+	
+	<section class="section-main section" id="contacts">
+		<div class="section-inn" itemscope itemtype="https://schema.org/LocalBusiness">
+			<div class="contacts-info" itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
+				<strong>Контакты <span>клиники</span></strong>
+				<p>Хотите записаться на прием? Проконсультироваться или вызвать ветеринарного врача на дом?</p>
+				<p>Мы ждем вашего звонка и всегда готовы помочь! <span itemprop="name">Унивет</span>.</p>
+				<meta itemprop="description" content="Круглосуточная ветеринарная клиника. Оказываем ветеринарную помощь c 2005 г.">
+				<link itemprop="url" href="https://univet.ru">
+				<meta itemprop="priceRange" content="От 500 RUB">
+				<link itemprop="logo image"  src="https://univet.ru/img/logo.png"/>
+				<p>Время работы - <time itemprop="openingHours" datetime="Mo-Sn 09:00−22:00">Ежедневно: 09:00–21:00</time>
+				<p>Адрес ветеринарной клиники:</p>
+				<p><span itemprop="postalCode">107140</span>, <span itemprop="addressLocality">г. Москва</span>,<span itemprop="streetAddress"> Леснорядский переулок д. 2</span>,<br> м. Красносельская / м. Сокольники</li>
+                <p>Телефоны клиники:<br><span itemprop="telephone"><a id="tel2" href="tel:+74993946274">+7 (499) 394-62-74</a></span><br><span itemprop="telephone"><a href="tel:+79162211373"> +7 (916) 221-13-73</a></span></li>
+				<p><a href="//vk.com/clubunivet" target="_blank" rel="nofollow noreferrer noopener">ВКонтакте</a>
+				
+				<!--<li>
+					<a href="https://www.facebook.com/univet24" target="_blank" rel="nofollow noreferrer noopener">Facebook</a>
+				</li>-->
+				<p><a itemprop="email" href="mailto:vet.uni@yandex.ru">vet.uni@yandex.ru</a></li>
+			</div>
+			<!--<div class="pets-call">
+                <picture>
+                    <source type="image/webp" data-srcset="img/dog.webp">
+                    <source type="image/png" data-srcset="img/dog.png">
+                    <img class="lazyload" alt="собака и телефон" title="Контакты" data-src="img/dog.png">
+                </picture>
+
+            </div>-->
+		</div><!-- .section-inn -->
+	</section><!-- #contacts -->
+	<section class="map-section section-main">
+			<div id="map_canvas" style="min-height:450px">
+                <iframe class="lazyload" data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2243.7144101120343!2d37.67262145483236!3d55.78083178097128!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46b535822856b32f%3A0x5d245d068cce7814!2z0JvQtdGB0L3QvtGA0Y_QtNGB0LrQuNC5INC_0LXRgC4sIDIsINCc0L7RgdC60LLQsCwgMTA3MTQw!5e0!3m2!1sru!2sru!4v1593160303818!5m2!1sru!2sru" width="100%" height="450" allowfullscreen="" aria-hidden="false" tabindex="0" title="унивет на карте"></iframe>
+			</div>
+	</section><!-- .map-section -->   
+	<footer role="contentinfo">
+		<div class="foo-inn">
+			 <a href="//natureworld.ru/zootop/cat/15/" rel="noreferrer noopener" target="_blank"><img class="lazyload" alt="Каталог сайтов о животных" border="0" height="31" data-src="img/veterinarian_01.png" width="88"></a> 
+            <!--<iframe class="lazyload" data-src="https://yandex.ru/sprav/widget/rating-badge/1065888369" width="150" height="50" frameborder="0"></iframe>-->
+			<nav id="bottom-menu">
+				<a href="https://univet.ru/services.php">Услуги</a><span>|</span> <a href="https://univet.ru/about-us.php#lab">О клинике</a><span>|</span> <a href="https://univet.ru/contacty.php#contact">Контакты</a><span>|</span> <a href="https://univet.ru/articles.php">Cтатьи</a><span>|</span><a href="https://univet.ru/sitemap.html">Карта сайта</a><span>|</span><a href="https://univet.ru/privacy.php">Конфиденциальность</a>
+			</nav><!-- #bottom-menu -->
+			<a class="foot-logo" href="#"><img class="lazyload img-f-logo" alt="Логотип ветеринарной клиники Унивет" title="Логотип" data-src="img/foot-logo.png"></a>
+			 <p class="copyright">&copy;2006 - <span itemprop="copyrightYear">2022</span> &laquo;Унивет&raquo;. <span class="lapa"></span>Копирование материалов разрешено только со ссылкой на источник.</p>
+  
+		</div><!-- .foo-inn -->
+	</footer>
+	<div class="navigation-fixed">
+		<span class="button-top">В начало</span> <span class="button-bottom">Следующий</span>
+	</div><!-- .navigation-fixed -->
+		<script src="https://kit.fontawesome.com/9a267a1939.js" crossorigin="anonymous"></script>
+        <script src="js/jquery-1.12.4.min.js"></script>
+        <script async src="js/lazysizes.min.js"></script> 
+        <script defer src="js/scrollspy.js"></script>
+        <script defer src="js/easyResponsiveTabs.js"></script> 
+        <script async src="js/script1.js"></script> 
+        <script async>window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;ga('create', 'UA-70414744-2', 'auto');ga('send', 'pageview');setTimeout(function(){
+                ga('send', 'event', 'Новый посетитель', location.pathname);}, 15000);</script>
+       <script>$(document).ready(function () {$('#wecare-tab').easyResponsiveTabs({type: 'default',width: 'auto',fit: true,});});</script>
+    
+        <noscript><div><img src="https://mc.yandex.ru/watch/1820719" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+		<script async="true" src="js/vetwidget.js"></script>
+    
+    <script>
+    var fired = false;
+    window.addEventListener('scroll',function(){
+    if (fired === false) {
+        fired = true;
+        
+        setTimeout(function(){
+
+            d = document.createElement('script');
+            f = document.createElement('script');
+   
+            d.src = 'https://cse.google.com/cse.js?cx=007150784040583641356:_abgxp1kfus';
+            f.src = 'js/analytics.js';
+       
+            d.async = true;
+            f.async = true;
+
+
+
+            document.body.appendChild(f);
+            document.body.appendChild(d);
+            
+            (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter1820719 = new Ya.Metrika({ id:1820719, clickmap:true, trackLinks:true, accurateTrackBounce:true }); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = "https://univet.ru/js/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks"); 
+            
+        }, 100)
+    }
+});</script>
+<script src="https://my.hellobar.com/dc4bfdbe17f447fa4374f3f8ea37b535ece003bd.js" type="text/javascript" charset="utf-8" async="async"> </script>
+<!--<script>
+            window.addEventListener('load', (event) => {
+                var vmWidgetRunButton = document.getElementsByClassName('vetmanager-run-widget')[0];
+
+                let btnStyles = [
+                    "text-decoration: none;",
+                    "display:block; !important;",
+                    "color: rgb(255, 255, 255);",
+                    "padding: 15px 25px;",
+                    "border-radius: 6px;",
+                    "background: #445c65 !important;"
+                ];
+                vmWidgetRunButton.style = btnStyles.join(' ');
+            });
+       </script>-->
+       
+    </body>
+</html>
+   
