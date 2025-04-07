@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta property="og:title" content="О клинике"/>    
+<meta property="og:description" name="description" content="Информация о ветеринарной клинике - Унивет, Леснорядский переулок, м. Красносельская">
+<meta property="og:site_name" content="univet.ru"/>
+<meta property="og:url" content="https://univet.ru/about-us.php"/>	 
+<meta property="og:image" content="https://univet.ru/img/holl.jpg"/>
+<meta property="og:image:width" content="1024px"/>
+<meta property="og:image:height" content="768px"/>     
+<meta property="og:type" content="article"/>
+<meta property="article:section" content="Ветеринария"/>
+<meta property="article:published_time" content="2017-12-13T16:40:27+03:00" />
+<meta property="article:modified_time" content="2017-12-13T12:12:41+03:00" />     
+<meta property="article:author" content="https://www.facebook.com/univet24/"/>	
+<meta property="fb:admins" content="100001410713182" />
+<meta property="fb:app_id" content="267585313656693" />    
+<title>О клинике</title>
+<link rel="canonical" href="https://univet.ru/about-us.php" />
+    
+<?php include "header2.html";?>
+    
+	   <section id="articles" class="section-main section">
+	       <div class="section-inn">
+			  <div class="art-content" itemscope itemtype="https://schema.org/Article">
+				<link itemprop="mainEntityOfPage" itemscope href="https://univet.ru/about-us.php" />
+                <link itemprop="image" href="https://univet.ru/img/univet-veterinarnaya-klinika.jpg">
+				 <meta itemprop="description" content="Информация о ветеринарной клинике - Унивет, Леснорядский переулок, м. Красносельская">
+				 <meta itemprop="author" content="Унивет">
+				 <meta itemprop="about" content="Ветеринария">  
+				<div class="org" itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+        			<div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+            			<link href="https://univet.ru/img/logo.png" itemprop="image url"/>
+            			<meta itemprop="width" content="152">
+            			<meta itemprop="height" content="152">
+        			</div>
+        			<meta itemprop="telephone" content="+7(495) 506-16-31">
+        			<meta itemprop="address" content="Россия, г.Москва, Леснорядский переулок д.2">
+        			<meta itemprop="name" content="Унивет - ветеринарная клиника">
+    			</div>
+				<meta itemprop="datePublished" content="2017-12-13">
+    			<meta itemprop="dateModified" content="2020-06-17">
+                  
+				<?php include $_SERVER['DOCUMENT_ROOT']."/elements/breadcrumbs3.html";?>
+                  
+                <article itemprop="articleBody">  
+                <h1 id="lab" itemprop="headline">О ветеринарной клинике - Унивет</h1>
+                  <div class="spoiler-body">
+                     <div class="clearafter"> 
+                        <div class="imge" itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
+                                   <img src="https://univet.ru/img/holl.jpg" alt="зал ожидания ветеринарной клиники" title="услуги ветеринарной клиники">
+								   <em itemprop="name">Зал ожидания клиники</em>
+								   <meta itemprop="width" content="1024">
+            					   <meta itemprop="height" content="768">
+                        </div>
+                      </div>     
+                       
+                    <p><strong>Ветеринарная клиника Унивет - современная клиника в центре Москвы.</strong> Мы ведем прием животных в уютном приметном здании в центре Москвы в шаговой близости от метро Красносельская. Работаем и оставляем довольных клиентов с 2005 года!
+                    <p>Ни для кого не секрет, если здоров домашний питомец – счастлив его хозяин! Вовремя оказанная ветеринарная помощь – залог успешного лечения!
+                    <p>Выбор ветеринарной клиники – ответственный шаг. Большое значение играет оснащение, спектр предлагаемых ветеринарных услуг, профессиональный подход и внимательное отношение персонала к каждому пациенту.
+                        
+                        <!--<div class="pict-center" itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
+                                   <img class="lazyload" data-src="img/awards-slides/aws3.jpg" alt="зал ожидания клиники" title="зал ожидания клиники">
+                                    <link href="https://univet.ru/img/awards-slides/aws3.jpg" itemprop="image url"/>
+								   <em itemprop="name">Зал ожидания</em>
+								   <meta itemprop="width" content="415">
+            					   <meta itemprop="height" content="281">
+                        </div>-->
+                    <p>Для удобства наших посетителей имеется просторный зал ожидания; функционируют терапевтическое, хирургическое, диагностическое отделения; обустроен процедурный кабинет, а так же,круглосуточный стационар. 
+                    <p>Особое внимание уделяется чистоте в нашей ветеринарной клинике. Несколько раз в день проводится дезинфекция всех помещений с применением безопасных средств и бактерицидных ламп, кроме того используются методы, позволяющие сохранять стерильность даже в присутствии пациентов.
+                    <p>Оснащение клиники и высокая квалификация  ветеринаров - вот что позволяет оказывать широкий спектр услуг по лечению домашних питомцев. Ветеринарные врачи нашей клиники постоянно повышают свой профессиональный уровень, осваивают и применяют новые методы терапии, участвуют в научных конференциях.
+                   
+                    <p>Все интересующие Вас вопросы Вы можете присылать на <a href="mailto:info@univet.ru">info@univet.ru</a>, мы будем рады получить замечания и предложения о работе нашей ветеринарной клиники и ветеринарных врачей.    
+                    <p>Подробную информацию о ветеринарных услугах, оказываемых в нашей ветеринарной клинике и ветеринаром на дому Вы можете узнать по тел. <a id="tel" href="tel:+74993946274">+7(499) 394-62-74</a>.
+                    <p>Мы искренне желаем быть здоровым Вам и Вашим питомцам и готовы приложить максимальные усилия для этого!    
+                        
+                
+                </div>
+            
+                  </article>
+                 <?php include "sidebar.html";?>  
+            </div>  
+           </div>
+    </section>
+<?php include "footer.html";?>
+                  
